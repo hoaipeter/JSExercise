@@ -59,17 +59,3 @@ function getsavelist() {
 function loaddata(el) {
 	document.getElementById("bodycontainer").innerHTML = localStorage.getItem(el.innerHTML);
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
