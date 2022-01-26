@@ -11,4 +11,4 @@ Project structure should be:
 ![project_structure.png](project_structure.png)
 
 ## Start
-Open file [index.html](index.html) on the browser to run
+Open file [index.html](index.html) on the supported browser to run
