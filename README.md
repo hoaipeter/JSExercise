@@ -8,7 +8,7 @@ In this project I use:
 ## Project Structure
 Project structure should be:
 
-![img.png](project_structure.png)
+![project_structure.png](project_structure.png)
 
 ## Start
 Open file [index.html](index.html) on the browser to run
